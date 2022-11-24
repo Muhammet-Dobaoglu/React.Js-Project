@@ -1,0 +1,7 @@
+React Component bazlıdır
+Bir komponent yarattığımızda onun alt bileşenleri var
+3 alt componentten oluşur
+    1) JavaScript
+    2) JSX (Html ile %99 aynı)
+    3) Css 
+ilk açıldığında publix içinde index.html çalışır
